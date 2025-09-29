@@ -5,7 +5,7 @@ Task 1:
 
 Task 4:
 - have a button on jpanel to filter all undone tasks
-- filter through by checking if todoItem does not end with DONE
+- make a method to filter through by checking if todoItem does not end with DONE
 
 Task 7 + 12:
 - import datetime
