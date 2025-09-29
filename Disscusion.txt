@@ -1,4 +1,11 @@
 Task 1:
 - Make todoItem into a class
-- Give todoItem an instance for itemCategory
-- Change jPanel display to show category next to todoItem name
+- Give todoItem a private instance for itemCategory
+- Change jPanel display to show itemCategory next to todoItem itemName
+
+Task 7 + 12:
+- import datetime
+- Give todoItem a private instance itemDate
+- Change jPanel display to show itemDate next to todoItem itemName
+- Give todoItem a private instance itemReminders
+- Create a method sendReminders to send reminders on date
