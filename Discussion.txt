@@ -5,7 +5,7 @@ Task 1:
 
 Task 4:
 - have a button on jpanel to filter all undone tasks
-- search all tasks and filter through undone tasks
+- make method to search all tasks and filter through undone tasks
 
 Task 7 + 12:
 - import datetime
