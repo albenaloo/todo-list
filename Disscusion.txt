@@ -16,8 +16,7 @@ Task 7 + 12:
 Task 9:
 - A method to update a task with given text
 - A specific way to make trigger the method when selecting the task
-- A better editable data model, like Task { title: String, completed: boolean } instead
-    of simply string
+
 
 
 Task 11:
