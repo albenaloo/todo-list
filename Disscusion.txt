@@ -15,8 +15,7 @@ Task 7 + 12:
 
 Task 9:
 - A method to update a task with given text
-- A specific way to make trigger the method when selecting the task
-
+- A specific way to make trigger the method when selecting the task, similar to toggleDone
 
 
 Task 11:
