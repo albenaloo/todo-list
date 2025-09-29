@@ -23,3 +23,7 @@ Task 10:
 -have a button to sort
 -add method to class todoItem that sorts each each todoItem based on due date
 -reorders list to be sorted
+
+Task 9:
+- A method to update a task with given text
+- A specific way to make trigger the method when selecting the task, similar to toggleDone
