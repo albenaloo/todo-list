@@ -1,1 +1,4 @@
-
+Task 1:
+- Make todoItem into a class
+- Give todoItem an instance for itemCategory
+- Change jPanel display to show category next to todoItem name
