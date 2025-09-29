@@ -13,7 +13,15 @@ Task 7 + 12:
 - Give todoItem a private instance itemReminders
 - Create a method sendReminders to send reminders on date
 
+Task 9:
+- A method to update a task with given text
+- A specific way to make trigger the method when selecting the task
+- A better editable data model, like Task { title: String, completed: boolean } instead
+    of simply string
+
+
 Task 11:
 - Make jPanel searchbar
 - search for todoItem through todoItem todoName
 - Have filtered view lead to todoItem
+
