@@ -3,6 +3,9 @@ Task 1:
 - Give todoItem a private instance for itemCategory
 - Change jPanel display to show itemCategory next to todoItem itemName
 
+Task 4:
+- Change jPanel to display as a checkbox for done or not done beside each task
+
 Task 7 + 12:
 - import datetime
 - Give todoItem a private instance itemDate
