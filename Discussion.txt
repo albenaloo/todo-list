@@ -4,7 +4,8 @@ Task 1:
 - Change jPanel display to show itemCategory next to todoItem itemName
 
 Task 4:
-- Change jPanel to display as a checkbox for done or not done beside each task
+- have a button on jpanel to filter all undone tasks
+- search all tasks and filter through undone tasks
 
 Task 7 + 12:
 - import datetime
