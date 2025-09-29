@@ -9,3 +9,8 @@ Task 7 + 12:
 - Change jPanel display to show itemDate next to todoItem itemName
 - Give todoItem a private instance itemReminders
 - Create a method sendReminders to send reminders on date
+
+Task 11:
+- Make jPanel searchbar
+- search for todoItem through todoItem todoName
+- Have filtered view lead to todoItem
